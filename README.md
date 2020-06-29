@@ -21,11 +21,7 @@ Sum of all products = 1 + 2 + 3 + 2 + 3 + 6 + 6
 
 ## Problem 2: Minimum word distance (https://leetcode.com/problems/shortest-word-distance/)
 
-Provided a list of words and two words, return the shortest distance between these two words in the list.
 
-Example:
-
-Assume that words = ["practice", "makes", "perfect", "coding", "makes"].
 
 
 
